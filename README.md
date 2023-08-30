@@ -1,8 +1,7 @@
 Navigating the Landscape of Machine Learning Operations
 =====
 
-Launch demo with:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thedataincubator/mlops_august2023_demo/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fthedataincubator%2Fmlops_august2023_demo%2Fblob%2Fmain%2Fmlops_ml_flow_demo.ipynb)
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook-small.svg">](https://deepnote.com/workspace/tdi-18e9b517-e69e-4f63-85f4-a8ab7e04ff58/project/Brian-Spierings-Demo-eef48b28-2872-4c95-9eb6-c8a0297dba80/notebook/Test-e69bc5173850403dae2d8bda8b1e28a7)
 
 MLOps is a collection of best practices for putting machine learning models into production and then maintaining those models in production. In this comprehensive data demo, you’ll learn how MLOps spans the machine learning lifecycle from data preparation, through model training and tuning, and improving deployed models. 
 
