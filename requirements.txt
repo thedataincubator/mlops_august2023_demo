@@ -1,0 +1,2 @@
+openai==2.6.0
+sklearn=1.2.2
